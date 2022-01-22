@@ -26,7 +26,3 @@ The Application will be CLI Menu based app, that will provide to user these Menu
 ## Demo
 
 [![Bash DBMS Project Demo](http://img.youtube.com/vi/5kpMEuUJHXQ/0.jpg)](https://www.youtube.com/watch?v=5kpMEuUJHXQ "Bash DBMS Project Demo")
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5kpMEuUJHXQ
-" target="_blank"><img src="http://img.youtube.com/vi/5kpMEuUJHXQ/0.jpg" 
-alt="Bash DBMS Project Demo" width="240" height="180" border="10" /></a>
