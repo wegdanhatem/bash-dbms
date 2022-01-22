@@ -23,6 +23,12 @@ The Application will be CLI Menu based app, that will provide to user these Menu
   - Select From Table
   - Delete From Table
 
+## Run
+
+```bash
+bash bash_dbms.sh
+```
+
 ## Demo
 
 [![Bash DBMS Project Demo](http://img.youtube.com/vi/5kpMEuUJHXQ/0.jpg)](https://www.youtube.com/watch?v=5kpMEuUJHXQ "Bash DBMS Project Demo")
