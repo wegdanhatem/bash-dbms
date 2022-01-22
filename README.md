@@ -24,4 +24,4 @@ The Application will be CLI Menu based app, that will provide to user these Menu
 
 ## Demo
 
-<video src='assets/demo.mp4'/>
+<video src='assets/demo.mp4' width=480/>

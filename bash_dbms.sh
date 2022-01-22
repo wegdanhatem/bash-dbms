@@ -186,7 +186,7 @@ while true; do
                                     echo -n ":" >>"$dbtable"
                                     continue
                                 else
-                                    echo $'\n' >>"$dbtable"
+                                    echo -n $'\n' >>"$dbtable"
                                     break
                                 fi
                             else
