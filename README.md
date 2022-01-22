@@ -25,4 +25,4 @@ The Application will be CLI Menu based app, that will provide to user these Menu
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5kpMEuUJHXQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Bash DBMS Project Demo](http://img.youtube.com/vi/5kpMEuUJHXQ/0.jpg)](https://www.youtube.com/watch?v=5kpMEuUJHXQ "Bash DBMS Project Demo")
