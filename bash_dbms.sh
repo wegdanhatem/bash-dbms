@@ -210,7 +210,7 @@ while true; do
                 if [ "$(ls -A .)" ]; then
 
                     select file in *; do
-                        if [ -d "$file" ]; then
+                        if [ -f "$file" ]; then
                             rm -rf "$file"
                             echo -e "Table $file dropped successfully"
 
